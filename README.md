@@ -14,6 +14,8 @@ The following tree-based models are used from `sklearn`:
 
 - Decision Tree
 - Random Forest Classifier
+- Gradient Boosting Classifier
+- Histogram Gradient Boosting Classifier
 
 ## Directory structure
 
