@@ -23,7 +23,7 @@ The following tree-based models are used from `sklearn`:
 .
 ├── DelayData.csv
 ├── README.md
-├── data-cleaning.ipynb
+├── main.ipynb
 └── requirements.txt
 
 1 directory, 4 files
@@ -31,7 +31,7 @@ The following tree-based models are used from `sklearn`:
 
 ## Instructions to execute the code
 
-The `data-cleaning.ipynb` notebook can be used after completing the following steps:
+The `main.ipynb` notebook can be used after completing the following steps:
 
 - Download the dataset from the URL above.
 - Ensure the dataset is named as `DelayData.csv` and in the location same as that of the notebook (refer the directory structure above).
